@@ -1,0 +1,6 @@
+# Nathan Soft — Security Policy (raíz, alias del archivo dentro de /.well-known/)
+
+Contact: mailto:contact@nathansoft.com.co
+Expires: 2027-04-26T00:00:00.000Z
+Preferred-Languages: es, en
+Canonical: https://nathansoft.com.co/.well-known/security.txt

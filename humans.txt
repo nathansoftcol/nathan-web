@@ -1,0 +1,13 @@
+/* TEAM */
+Founder & CEO: Jonathan Stiven Peña González
+Site: https://nathansoft.com.co
+Location: Ibagué, Tolima, Colombia
+
+/* THANKS */
+Brand guide & visual identity by Nathan Soft team.
+
+/* SITE */
+Last update: 2026/04/26
+Standards: HTML5, CSS3, JavaScript (vanilla), Schema.org JSON-LD
+Components: PHPMailer (PHP), formulario contact.php
+Software: PHP, Apache/LiteSpeed

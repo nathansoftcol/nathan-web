@@ -1,0 +1,11 @@
+# Nathan Soft — https://nathansoft.com.co
+User-agent: *
+Allow: /
+
+# No indexar página de error si el servidor la sirve con 200
+Disallow: /404.html
+
+# Dependencias del servidor / back-end (403 intencional: no rastrear)
+Disallow: /vendor/
+
+Sitemap: https://nathansoft.com.co/sitemap.xml

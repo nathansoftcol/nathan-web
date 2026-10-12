@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Nathan Soft">
+  <defs>
+    <linearGradient id="ns-wave" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1366B1"/>
+      <stop offset="100%" stop-color="#0A2540"/>
+    </linearGradient>
+    <linearGradient id="ns-mtn" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3a4a5e"/>
+      <stop offset="100%" stop-color="#0A2540"/>
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="#0A2540"/>
+  <path d="M14 18 Q24 6 32 16 Q40 6 50 18 L50 36 L14 36 Z" fill="none"/>
+  <path d="M18 36 L26 18 L30 26 L36 14 L46 36 Z" fill="url(#ns-mtn)"/>
+  <path d="M10 40 Q20 32 32 40 T54 40 L54 50 Q42 56 32 50 T10 50 Z" fill="url(#ns-wave)"/>
+  <path d="M10 46 Q22 40 32 46 T54 46" stroke="#1366B1" stroke-width="1.4" fill="none" opacity=".7"/>
+  <path d="M10 52 Q22 47 32 52 T54 52" stroke="#A6ABB4" stroke-width="0.8" fill="none" opacity=".6"/>
+</svg>

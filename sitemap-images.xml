@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://nathansoft.com.co/</loc>
+    <image:image>
+      <image:loc>https://nathansoft.com.co/assets/img/og-image.jpg</image:loc>
+      <image:title>Nathan Soft — software, Possly, facturación electrónica y agentes IA — Colombia</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://nathansoft.com.co/assets/img/logo/nathan-soft-logo-web.webp</image:loc>
+      <image:title>Logo Nathan Soft horizontal (WebP)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://nathansoft.com.co/assets/img/logo/nathan-soft-logo-web-400.png</image:loc>
+      <image:title>Logo Nathan Soft horizontal optimizado</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://nathansoft.com.co/assets/img/logo/nathan-soft-logo-web.png</image:loc>
+      <image:title>Logo Nathan Soft horizontal</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://nathansoft.com.co/assets/img/logo/nathan-soft-logo.png</image:loc>
+      <image:title>Logo Nathan Soft cuadrado</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://nathansoft.com.co/assets/img/hero-ocean.webp</image:loc>
+      <image:title>Hero Nathan Soft — océano azul (WebP)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://nathansoft.com.co/assets/img/hero-ocean.jpg</image:loc>
+      <image:title>Hero Nathan Soft — océano azul</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://nathansoft.com.co/assets/img/logo/apple-touch-512.png</image:loc>
+      <image:title>App icon Nathan Soft</image:title>
+    </image:image>
+  </url>
+</urlset>
